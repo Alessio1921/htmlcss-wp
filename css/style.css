@@ -47,15 +47,9 @@ footer{
   width: 100%;
   margin-bottom: 15px;
 }
-.left-main {
-  width: 20%;
-}
 .central-main{
   width: 60%;
   margin: 0 15px 15px 15px;
-}
-.rigth-main{
-  width: 20%;
 }
 .dimension-l-r{
   width: calc((40% / 2) - 15px);

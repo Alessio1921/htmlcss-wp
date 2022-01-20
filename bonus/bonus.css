@@ -1,0 +1,32 @@
+li:hover a{
+  background-color: red;
+  color:white;
+  font-size: 1.5rem;
+}
+.left-main:hover .transparency{
+  background-image: url(../img/img-2.jpg);
+  width: 100%;
+  height: 201px;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.right-main:hover .transparency{
+  background-image: url(../img/img-4.jpg);
+  width: 100%;
+  height: 201px;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.structure-contain:hover {
+  background-color: lightyellow ;
+  color:darkorange;
+}
+.structure-contain:hover h1,.structure-contain:hover h5{
+  color:darkviolet;
+}
+footer:active .heart{
+  color: blue;
+}
